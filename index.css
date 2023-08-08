@@ -1,0 +1,3330 @@
+.frame2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame2-frame2 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame2-asset21 {
+  top: 171px;
+  left: 963px;
+  width: 100px;
+  height: 94px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-layer2 {
+  top: 0px;
+  left: 0px;
+  width: 100.000244140625px;
+  height: 94.00856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-layer1 {
+  top: 0px;
+  left: 0px;
+  width: 100.000244140625px;
+  height: 94.00856018066406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-vector {
+  top: 85.00103759765625px;
+  left: 0.7165719866752625px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector001 {
+  top: 87.49943542480469px;
+  left: 4.082116603851318px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector002 {
+  top: 87.49954986572266px;
+  left: 11.629286766052246px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector003 {
+  top: 87.5002212524414px;
+  left: 18.775352478027344px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector004 {
+  top: 87.60343933105469px;
+  left: 25.754520416259766px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector005 {
+  top: 87.50404357910156px;
+  left: 32.85415267944336px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector006 {
+  top: 86.01315307617188px;
+  left: 40.52054977416992px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+.frame2-vector007 {
+  top: 85.0010986328125px;
+  left: 45.279685974121094px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector008 {
+  top: 87.5002212524414px;
+  left: 48.24412536621094px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector009 {
+  top: 87.49943542480469px;
+  left: 55.9273796081543px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector010 {
+  top: 85.05767822265625px;
+  left: 65.62239837646484px;
+  width: 3px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector011 {
+  top: 87.5002212524414px;
+  left: 69.73062896728516px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector012 {
+  top: 87.49674987792969px;
+  left: 77.3980484008789px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector013 {
+  top: 87.60343933105469px;
+  left: 81.96546173095703px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector014 {
+  top: 87.49687194824219px;
+  left: 89.55342864990234px;
+  width: 10px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector015 {
+  top: 69.42804718017578px;
+  left: 0.7159526348114014px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector016 {
+  top: 69.74028015136719px;
+  left: 11.569952964782715px;
+  width: 12px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector017 {
+  top: 69.74028015136719px;
+  left: 26.02349853515625px;
+  width: 11px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector018 {
+  top: 69.57890319824219px;
+  left: 38.76428985595703px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector019 {
+  top: 69.57890319824219px;
+  left: 48.538429260253906px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector020 {
+  top: 69.43060302734375px;
+  left: 63.32139587402344px;
+  width: 12px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector021 {
+  top: 69.57890319824219px;
+  left: 77.95182800292969px;
+  width: 1px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector022 {
+  top: 69.57890319824219px;
+  left: 81.20327758789062px;
+  width: 8px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector023 {
+  top: 69.57890319824219px;
+  left: 90.5344009399414px;
+  width: 9px;
+  height: 13px;
+  position: absolute;
+}
+.frame2-vector024 {
+  top: 33.49832534790039px;
+  left: -1.7566123955206343e-16px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector025 {
+  top: 33.49025344848633px;
+  left: 33.63395309448242px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector026 {
+  top: 40.31214904785156px;
+  left: 40.47885513305664px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.frame2-vector027 {
+  top: 33.502262115478516px;
+  left: 67.3193359375px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector028 {
+  top: 16.654691696166992px;
+  left: 78.80226135253906px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector029 {
+  top: 0.004424343351274729px;
+  left: 67.3193359375px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector030 {
+  top: 16.654691696166992px;
+  left: 55.377559661865234px;
+  width: 10px;
+  height: 8px;
+  position: absolute;
+}
+.frame2-vector031 {
+  top: 7.947486877441406px;
+  left: 56.24382019042969px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector032 {
+  top: -0.0000047984376578824595px;
+  left: 33.89454650878906px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector033 {
+  top: 9.317337036132812px;
+  left: 9.445826530456543px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.frame2-vector034 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-group16 {
+  top: 300px;
+  left: 328px;
+  width: 688px;
+  height: 326px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-text {
+  top: 433px;
+  left: 313px;
+  color: rgba(30, 30, 30, 1);
+  width: 591px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-text02 {
+  top: 226px;
+  left: 378px;
+  color: rgba(30, 30, 30, 1);
+  width: 519px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-radio {
+  top: 512px;
+  left: 469px;
+  width: 59px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-text04 {
+  left: -130px;
+  color: rgba(30, 30, 30, 1);
+  width: 59px;
+  bottom: -9px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-ellipse2 {
+  top: 4px;
+  left: -116px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame2-radio1 {
+  top: 512px;
+  left: 579px;
+  width: 59px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-text06 {
+  left: -111px;
+  color: rgba(30, 30, 30, 1);
+  width: 59px;
+  bottom: -1px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-ellipse21 {
+  top: 6px;
+  left: -99px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame2-radio2 {
+  top: 512px;
+  left: 689px;
+  width: 59px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-text08 {
+  left: -101px;
+  color: rgba(30, 30, 30, 1);
+  width: 59px;
+  bottom: -3px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-ellipse22 {
+  top: 6px;
+  left: -87px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame2-radio3 {
+  top: 512px;
+  left: 799px;
+  width: 59px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-text10 {
+  left: -78px;
+  color: rgba(30, 30, 30, 1);
+  width: 59px;
+  bottom: -12px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-ellipse23 {
+  top: 7px;
+  left: -65px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame2-radio4 {
+  top: 512px;
+  left: 909px;
+  width: 59px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame2-text12 {
+  left: -58px;
+  color: rgba(30, 30, 30, 1);
+  width: 59px;
+  bottom: -7px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-ellipse24 {
+  top: 5px;
+  left: -45px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame2-layer21 {
+  top: 792px;
+  left: -19px;
+  width: 1478.24462890625px;
+  height: 242.24000549316406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-layer22 {
+  top: 0px;
+  left: 0px;
+  width: 1478.24462890625px;
+  height: 242.24000549316406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-layer11 {
+  top: 0px;
+  left: 0px;
+  width: 1478.24462890625px;
+  height: 242.24000549316406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame2-vector035 {
+  top: 67.13239288330078px;
+  left: 577.3827514648438px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector036 {
+  top: 51.480220794677734px;
+  left: 587.8895874023438px;
+  width: 23px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector037 {
+  top: 67.16976928710938px;
+  left: 600.3743896484375px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.frame2-vector038 {
+  top: 66.18006134033203px;
+  left: 883.5967407226562px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector039 {
+  top: 66.79255676269531px;
+  left: 884.4254150390625px;
+  width: 10px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector040 {
+  top: 94.17247009277344px;
+  left: 882.515869140625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector041 {
+  top: 94.20841979980469px;
+  left: 876.7157592773438px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector042 {
+  top: 66.46833038330078px;
+  left: 865.3674926757812px;
+  width: 10px;
+  height: 28px;
+  position: absolute;
+}
+.frame2-vector043 {
+  top: 66.03592681884766px;
+  left: 876.7157592773438px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector044 {
+  top: 61.846431732177734px;
+  left: 861.03564453125px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector045 {
+  top: 59.48870086669922px;
+  left: 876.3988647460938px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector046 {
+  top: 61.92900085449219px;
+  left: 879.1654663085938px;
+  width: 19px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector047 {
+  top: 94.95350646972656px;
+  left: 878.6619262695312px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector048 {
+  top: 66.79255676269531px;
+  left: 872.5840454101562px;
+  width: 14px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector049 {
+  top: 11.032575607299805px;
+  left: 817.6687622070312px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector050 {
+  top: 9.773506164550781px;
+  left: 812.3030395507812px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector051 {
+  top: 2.564314126968384px;
+  left: 821.3212890625px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector052 {
+  top: 29.622974395751953px;
+  left: 807.369873046875px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector053 {
+  top: 20.076059341430664px;
+  left: 807.369873046875px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector054 {
+  top: 0px;
+  left: 832.5115356445312px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+}
+.frame2-vector055 {
+  top: 2.543644905090332px;
+  left: 840.0567016601562px;
+  width: 5px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector056 {
+  top: 36.54092788696289px;
+  left: 812.2879638671875px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector057 {
+  top: 29.622974395751953px;
+  left: 849.0703125px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector058 {
+  top: 36.28871536254883px;
+  left: 845.4883422851562px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector059 {
+  top: 20.03999900817871px;
+  left: 849.1424560546875px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector060 {
+  top: 9.773506164550781px;
+  left: 845.8486328125px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector061 {
+  top: 41.023529052734375px;
+  left: 839.840576171875px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector062 {
+  top: 42.72698974609375px;
+  left: 832.5115356445312px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+}
+.frame2-vector063 {
+  top: 41.523990631103516px;
+  left: 821.1790771484375px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector064 {
+  top: 239.75413513183594px;
+  left: 533.9949951171875px;
+  width: 77px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector065 {
+  top: 239.75413513183594px;
+  left: 629.9327392578125px;
+  width: 254px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector066 {
+  top: 239.75413513183594px;
+  left: 899.8768310546875px;
+  width: 15px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector067 {
+  top: 239.75413513183594px;
+  left: 926.7162475585938px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector068 {
+  top: 183.21487426757812px;
+  left: 493.70269775390625px;
+  width: 30px;
+  height: 44px;
+  position: absolute;
+}
+.frame2-vector069 {
+  top: 227.50526428222656px;
+  left: 507.59149169921875px;
+  width: 2px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector070 {
+  top: 78.5370101928711px;
+  left: 654.6143798828125px;
+  width: 75px;
+  height: 150px;
+  position: absolute;
+}
+.frame2-vector071 {
+  top: 155.8852081298828px;
+  left: 577.050048828125px;
+  width: 75px;
+  height: 73px;
+  position: absolute;
+}
+.frame2-vector072 {
+  top: 29.829666137695312px;
+  left: 732.0346069335938px;
+  width: 59px;
+  height: 199px;
+  position: absolute;
+}
+.frame2-vector073 {
+  top: 67.98136901855469px;
+  left: 936.5191040039062px;
+  width: 44px;
+  height: 160px;
+  position: absolute;
+}
+.frame2-vector074 {
+  top: 43.0152587890625px;
+  left: 960.9808959960938px;
+  width: 20px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector075 {
+  top: 62.07038497924805px;
+  left: 530.9005126953125px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector076 {
+  top: 88.08403778076172px;
+  left: 530.1078491210938px;
+  width: 45px;
+  height: 141px;
+  position: absolute;
+}
+.frame2-vector077 {
+  top: 111.5583267211914px;
+  left: 793.5672607421875px;
+  width: 141px;
+  height: 117px;
+  position: absolute;
+}
+.frame2-vector078 {
+  top: 191.11880493164062px;
+  left: 586.0528564453125px;
+  width: 56px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector079 {
+  top: 191.11880493164062px;
+  left: 538.3541259765625px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector080 {
+  top: 165.3203125px;
+  left: 593.838134765625px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector081 {
+  top: 165.3203125px;
+  left: 612.3917236328125px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector082 {
+  top: 165.3203125px;
+  left: 630.9811401367188px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector083 {
+  top: 198.42837524414062px;
+  left: 541.0238647460938px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector084 {
+  top: 198.42837524414062px;
+  left: 550.57080078125px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector085 {
+  top: 198.21595764160156px;
+  left: 560.0816650390625px;
+  width: 3px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector086 {
+  top: 129.18606567382812px;
+  left: 888.964599609375px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector087 {
+  top: 129.18606567382812px;
+  left: 907.51806640625px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector088 {
+  top: 129.18606567382812px;
+  left: 926.1076049804688px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector089 {
+  top: 108.75928497314453px;
+  left: 888.964599609375px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector090 {
+  top: 108.75928497314453px;
+  left: 907.51806640625px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector091 {
+  top: 108.75928497314453px;
+  left: 926.1076049804688px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector092 {
+  top: 110.23625946044922px;
+  left: 671.3305053710938px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector093 {
+  top: 110.23625946044922px;
+  left: 689.9199829101562px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector094 {
+  top: 110.23625946044922px;
+  left: 708.4734497070312px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector095 {
+  top: 89.80948638916016px;
+  left: 671.3305053710938px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector096 {
+  top: 89.80948638916016px;
+  left: 689.9199829101562px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector097 {
+  top: 89.80948638916016px;
+  left: 708.4734497070312px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector098 {
+  top: 157.97479248046875px;
+  left: 869.1502075195312px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector099 {
+  top: 157.97479248046875px;
+  left: 899.844482421875px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector100 {
+  top: 184.3458709716797px;
+  left: 869.7626953125px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector101 {
+  top: 184.3458709716797px;
+  left: 900.4930419921875px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector102 {
+  top: 78.46499633789062px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector103 {
+  top: 78.46444702148438px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector104 {
+  top: 93.70410919189453px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector105 {
+  top: 93.70355987548828px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector106 {
+  top: 108.546875px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector107 {
+  top: 108.54632568359375px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector108 {
+  top: 123.82193756103516px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector109 {
+  top: 123.8198471069336px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector110 {
+  top: 137.5118408203125px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector111 {
+  top: 137.5113983154297px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector112 {
+  top: 152.75094604492188px;
+  left: 945.0933227539062px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector113 {
+  top: 152.75039672851562px;
+  left: 960.5125122070312px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector114 {
+  top: 99.54033660888672px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector115 {
+  top: 99.54033660888672px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector116 {
+  top: 114.77933502197266px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector117 {
+  top: 114.77933502197266px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector118 {
+  top: 129.73028564453125px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector119 {
+  top: 129.73028564453125px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector120 {
+  top: 144.8612060546875px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector121 {
+  top: 144.8612060546875px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector122 {
+  top: 158.5512237548828px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector123 {
+  top: 158.5512237548828px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector124 {
+  top: 173.82627868652344px;
+  left: 537.5293579101562px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector125 {
+  top: 173.82627868652344px;
+  left: 552.8043823242188px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector126 {
+  top: 162.44200134277344px;
+  left: 800.3762817382812px;
+  width: 44px;
+  height: 3px;
+  position: absolute;
+}
+.frame2-vector127 {
+  top: 216.84153747558594px;
+  left: 800.5886840820312px;
+  width: 43px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector128 {
+  top: 169.86338806152344px;
+  left: 944.2969970703125px;
+  width: 28px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector129 {
+  top: 197.31497192382812px;
+  left: 737.185546875px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector130 {
+  top: 176.22677612304688px;
+  left: 943.0213623046875px;
+  width: 32px;
+  height: 45px;
+  position: absolute;
+}
+.frame2-vector131 {
+  top: 167.48190307617188px;
+  left: 804.0869750976562px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector132 {
+  top: 167.48190307617188px;
+  left: 812.4089965820312px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector133 {
+  top: 167.48190307617188px;
+  left: 820.76708984375px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector134 {
+  top: 167.48190307617188px;
+  left: 829.089111328125px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector135 {
+  top: 167.48190307617188px;
+  left: 837.4472045898438px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector136 {
+  top: 128.25111389160156px;
+  left: 800.4351806640625px;
+  width: 40px;
+  height: 29px;
+  position: absolute;
+}
+.frame2-vector137 {
+  top: 197.4233856201172px;
+  left: 585.8404541015625px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector138 {
+  top: 210.71705627441406px;
+  left: 586.3447875976562px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector139 {
+  top: 170.54788208007812px;
+  left: 667.439697265625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector140 {
+  top: 170.54788208007812px;
+  left: 698.3140869140625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector141 {
+  top: 196.9190673828125px;
+  left: 668.3403930664062px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector142 {
+  top: 196.91445922851562px;
+  left: 698.7824096679688px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector143 {
+  top: 126.99225616455078px;
+  left: 665.1340942382812px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector144 {
+  top: 143.05990600585938px;
+  left: 665.1340942382812px;
+  width: 56px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector145 {
+  top: 37.214988708496094px;
+  left: 739.0596313476562px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector146 {
+  top: 37.214988708496094px;
+  left: 755.5596923828125px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector147 {
+  top: 37.214988708496094px;
+  left: 772.0958251953125px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector148 {
+  top: 103.82745361328125px;
+  left: 739.0596313476562px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector149 {
+  top: 103.82745361328125px;
+  left: 755.5596923828125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector150 {
+  top: 103.82745361328125px;
+  left: 772.0958251953125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector151 {
+  top: 123.96607208251953px;
+  left: 739.0596313476562px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector152 {
+  top: 123.96607208251953px;
+  left: 755.5596923828125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector153 {
+  top: 123.96607208251953px;
+  left: 772.0958251953125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector154 {
+  top: 143.31210327148438px;
+  left: 739.0596313476562px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector155 {
+  top: 143.31210327148438px;
+  left: 755.5596923828125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector156 {
+  top: 143.31210327148438px;
+  left: 772.0958251953125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector157 {
+  top: 164.20724487304688px;
+  left: 739.0198364257812px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector158 {
+  top: 173.2137908935547px;
+  left: 739.0198364257812px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector159 {
+  top: 182.2203369140625px;
+  left: 739.0198364257812px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector160 {
+  top: 191.2268829345703px;
+  left: 739.0198364257812px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector161 {
+  top: 199.72911071777344px;
+  left: 760.8157348632812px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector162 {
+  top: 208.73565673828125px;
+  left: 760.8157348632812px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector163 {
+  top: 59.22703552246094px;
+  left: 797.8543701171875px;
+  width: 36px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector164 {
+  top: 69.20624542236328px;
+  left: 625.865478515625px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector165 {
+  top: 77.42021179199219px;
+  left: 817.8489990234375px;
+  width: 37px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector166 {
+  top: 216.4451904296875px;
+  left: 860.8243408203125px;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector167 {
+  top: 199.30714416503906px;
+  left: 910.0119018554688px;
+  width: 21px;
+  height: 30px;
+  position: absolute;
+}
+.frame2-vector168 {
+  top: 229.2499542236328px;
+  left: 919.2987060546875px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector169 {
+  top: 97.30672454833984px;
+  left: 599.638427734375px;
+  width: 1px;
+  height: 41px;
+  position: absolute;
+}
+.frame2-vector170 {
+  top: 67.12535095214844px;
+  left: 1074.03955078125px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector171 {
+  top: 51.480220794677734px;
+  left: 1084.6544189453125px;
+  width: 23px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector172 {
+  top: 67.16976928710938px;
+  left: 1097.17529296875px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.frame2-vector173 {
+  top: 66.18006134033203px;
+  left: 1380.361572265625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector174 {
+  top: 66.79255676269531px;
+  left: 1381.190185546875px;
+  width: 10px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector175 {
+  top: 94.17247009277344px;
+  left: 1379.388916015625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector176 {
+  top: 94.20841979980469px;
+  left: 1373.4805908203125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector177 {
+  top: 66.57640838623047px;
+  left: 1362.3125px;
+  width: 10px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector178 {
+  top: 66.03592681884766px;
+  left: 1373.5166015625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector179 {
+  top: 61.846431732177734px;
+  left: 1357.8004150390625px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector180 {
+  top: 59.48870086669922px;
+  left: 1373.1793212890625px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector181 {
+  top: 61.92900085449219px;
+  left: 1375.9754638671875px;
+  width: 19px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector182 {
+  top: 94.80947875976562px;
+  left: 1375.354736328125px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector183 {
+  top: 66.79255676269531px;
+  left: 1369.5037841796875px;
+  width: 14px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector184 {
+  top: 11.032575607299805px;
+  left: 1314.4337158203125px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.frame2-vector185 {
+  top: 9.773506164550781px;
+  left: 1309.0726318359375px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector186 {
+  top: 2.564314126968384px;
+  left: 1318.0880126953125px;
+  width: 5px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector187 {
+  top: 29.622974395751953px;
+  left: 1304.142578125px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector188 {
+  top: 20.076059341430664px;
+  left: 1304.142578125px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector189 {
+  top: 0px;
+  left: 1329.240478515625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+}
+.frame2-vector190 {
+  top: 2.543644905090332px;
+  left: 1336.8216552734375px;
+  width: 5px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector191 {
+  top: 36.54092788696289px;
+  left: 1309.0726318359375px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector192 {
+  top: 29.622974395751953px;
+  left: 1345.909423828125px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector193 {
+  top: 36.28871536254883px;
+  left: 1342.320068359375px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector194 {
+  top: 20.03999900817871px;
+  left: 1345.909423828125px;
+  width: 10px;
+  height: 4px;
+  position: absolute;
+}
+.frame2-vector195 {
+  top: 9.773506164550781px;
+  left: 1342.629150390625px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.frame2-vector196 {
+  top: 41.023529052734375px;
+  left: 1336.6163330078125px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector197 {
+  top: 42.72698974609375px;
+  left: 1329.240478515625px;
+  width: 2px;
+  height: 11px;
+  position: absolute;
+}
+.frame2-vector198 {
+  top: 41.523990631103516px;
+  left: 1318.0880126953125px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector199 {
+  top: 239.75413513183594px;
+  left: 1030.7598876953125px;
+  width: 77px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector200 {
+  top: 239.75413513183594px;
+  left: 1126.697509765625px;
+  width: 254px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector201 {
+  top: 239.75413513183594px;
+  left: 1396.6416015625px;
+  width: 15px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector202 {
+  top: 239.75413513183594px;
+  left: 1423.445068359375px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector203 {
+  top: 183.21487426757812px;
+  left: 990.3328857421875px;
+  width: 30px;
+  height: 44px;
+  position: absolute;
+}
+.frame2-vector204 {
+  top: 227.50526428222656px;
+  left: 1004.3564453125px;
+  width: 2px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector205 {
+  top: 78.5370101928711px;
+  left: 1151.4512939453125px;
+  width: 75px;
+  height: 150px;
+  position: absolute;
+}
+.frame2-vector206 {
+  top: 155.8852081298828px;
+  left: 1073.850830078125px;
+  width: 75px;
+  height: 73px;
+  position: absolute;
+}
+.frame2-vector207 {
+  top: 29.829666137695312px;
+  left: 1228.7994384765625px;
+  width: 59px;
+  height: 199px;
+  position: absolute;
+}
+.frame2-vector208 {
+  top: 67.98136901855469px;
+  left: 1433.320068359375px;
+  width: 45px;
+  height: 160px;
+  position: absolute;
+}
+.frame2-vector209 {
+  top: 43.0152587890625px;
+  left: 1457.745849609375px;
+  width: 20px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector210 {
+  top: 62.07038497924805px;
+  left: 1027.5572509765625px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector211 {
+  top: 88.08403778076172px;
+  left: 1026.872802734375px;
+  width: 45px;
+  height: 141px;
+  position: absolute;
+}
+.frame2-vector212 {
+  top: 111.5583267211914px;
+  left: 1290.3681640625px;
+  width: 141px;
+  height: 117px;
+  position: absolute;
+}
+.frame2-vector213 {
+  top: 191.11880493164062px;
+  left: 1082.7816162109375px;
+  width: 56px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector214 {
+  top: 191.11880493164062px;
+  left: 1035.0828857421875px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector215 {
+  top: 165.3203125px;
+  left: 1090.6031494140625px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector216 {
+  top: 165.3203125px;
+  left: 1109.192626953125px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector217 {
+  top: 165.3203125px;
+  left: 1127.74609375px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector218 {
+  top: 198.42837524414062px;
+  left: 1037.82470703125px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector219 {
+  top: 198.42837524414062px;
+  left: 1047.335693359375px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector220 {
+  top: 198.42837524414062px;
+  left: 1056.882568359375px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector221 {
+  top: 129.18606567382812px;
+  left: 1385.7294921875px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector222 {
+  top: 128.97364807128906px;
+  left: 1404.282958984375px;
+  width: 3px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector223 {
+  top: 129.18606567382812px;
+  left: 1422.8724365234375px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector224 {
+  top: 108.75928497314453px;
+  left: 1385.7294921875px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector225 {
+  top: 108.546875px;
+  left: 1404.282958984375px;
+  width: 3px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector226 {
+  top: 108.75928497314453px;
+  left: 1422.8724365234375px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector227 {
+  top: 110.23625946044922px;
+  left: 1168.239501953125px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector228 {
+  top: 110.23625946044922px;
+  left: 1186.684814453125px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector229 {
+  top: 110.23625946044922px;
+  left: 1205.23828125px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector230 {
+  top: 89.80948638916016px;
+  left: 1168.239501953125px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector231 {
+  top: 89.80948638916016px;
+  left: 1186.684814453125px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector232 {
+  top: 89.80948638916016px;
+  left: 1205.23828125px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector233 {
+  top: 157.97479248046875px;
+  left: 1365.879150390625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector234 {
+  top: 157.97479248046875px;
+  left: 1396.609375px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector235 {
+  top: 184.3458709716797px;
+  left: 1366.527587890625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector236 {
+  top: 184.3458709716797px;
+  left: 1397.2578125px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector237 {
+  top: 78.46499633789062px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector238 {
+  top: 78.46499633789062px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector239 {
+  top: 93.70410919189453px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector240 {
+  top: 93.70410919189453px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector241 {
+  top: 108.546875px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector242 {
+  top: 108.546875px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector243 {
+  top: 123.82193756103516px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector244 {
+  top: 123.82193756103516px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector245 {
+  top: 137.5118408203125px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector246 {
+  top: 137.5118408203125px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector247 {
+  top: 152.75094604492188px;
+  left: 1441.8582763671875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector248 {
+  top: 152.75094604492188px;
+  left: 1457.16943359375px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector249 {
+  top: 99.54033660888672px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector250 {
+  top: 99.54033660888672px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector251 {
+  top: 114.77933502197266px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector252 {
+  top: 114.77933502197266px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector253 {
+  top: 129.73028564453125px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector254 {
+  top: 129.73028564453125px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector255 {
+  top: 144.8612060546875px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector256 {
+  top: 144.8612060546875px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector257 {
+  top: 158.5512237548828px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector258 {
+  top: 158.5512237548828px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector259 {
+  top: 173.82627868652344px;
+  left: 1034.294189453125px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector260 {
+  top: 173.82627868652344px;
+  left: 1049.6053466796875px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector261 {
+  top: 162.44200134277344px;
+  left: 1297.14111328125px;
+  width: 44px;
+  height: 3px;
+  position: absolute;
+}
+.frame2-vector262 {
+  top: 216.84153747558594px;
+  left: 1297.353515625px;
+  width: 43px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector263 {
+  top: 169.86338806152344px;
+  left: 1441.0618896484375px;
+  width: 28px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector264 {
+  top: 197.3153076171875px;
+  left: 1233.9505615234375px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector265 {
+  top: 176.22898864746094px;
+  left: 1439.7862548828125px;
+  width: 32px;
+  height: 45px;
+  position: absolute;
+}
+.frame2-vector266 {
+  top: 167.48190307617188px;
+  left: 1300.851806640625px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector267 {
+  top: 167.48190307617188px;
+  left: 1309.2098388671875px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector268 {
+  top: 167.48190307617188px;
+  left: 1317.531982421875px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector269 {
+  top: 167.48190307617188px;
+  left: 1325.8900146484375px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector270 {
+  top: 167.48190307617188px;
+  left: 1334.2120361328125px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector271 {
+  top: 128.25111389160156px;
+  left: 1297.2000732421875px;
+  width: 40px;
+  height: 29px;
+  position: absolute;
+}
+.frame2-vector272 {
+  top: 197.4233856201172px;
+  left: 1082.6053466796875px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector273 {
+  top: 210.71705627441406px;
+  left: 1083.0015869140625px;
+  width: 57px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector274 {
+  top: 170.54788208007812px;
+  left: 1164.3486328125px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector275 {
+  top: 170.54788208007812px;
+  left: 1195.04296875px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector276 {
+  top: 196.9190673828125px;
+  left: 1164.9610595703125px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector277 {
+  top: 196.9190673828125px;
+  left: 1195.69140625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector278 {
+  top: 126.99225616455078px;
+  left: 1161.8988037109375px;
+  width: 57px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector279 {
+  top: 143.05990600585938px;
+  left: 1161.8988037109375px;
+  width: 57px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector280 {
+  top: 37.214988708496094px;
+  left: 1236.004638671875px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector281 {
+  top: 37.214988708496094px;
+  left: 1252.360595703125px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector282 {
+  top: 37.214988708496094px;
+  left: 1268.860595703125px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector283 {
+  top: 103.82745361328125px;
+  left: 1236.004638671875px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector284 {
+  top: 103.82745361328125px;
+  left: 1252.360595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector285 {
+  top: 103.82745361328125px;
+  left: 1268.860595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector286 {
+  top: 123.96607208251953px;
+  left: 1236.004638671875px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector287 {
+  top: 123.96607208251953px;
+  left: 1252.360595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector288 {
+  top: 123.96607208251953px;
+  left: 1268.860595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector289 {
+  top: 143.31210327148438px;
+  left: 1236.004638671875px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector290 {
+  top: 143.31210327148438px;
+  left: 1252.360595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector291 {
+  top: 143.31210327148438px;
+  left: 1268.860595703125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector292 {
+  top: 164.20724487304688px;
+  left: 1235.7847900390625px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector293 {
+  top: 173.2137908935547px;
+  left: 1235.7847900390625px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector294 {
+  top: 182.2203369140625px;
+  left: 1235.7847900390625px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector295 {
+  top: 191.2268829345703px;
+  left: 1235.7847900390625px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector296 {
+  top: 199.72911071777344px;
+  left: 1257.61669921875px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector297 {
+  top: 208.73565673828125px;
+  left: 1257.61669921875px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector298 {
+  top: 59.22703552246094px;
+  left: 1294.619384765625px;
+  width: 36px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector299 {
+  top: 69.20624542236328px;
+  left: 1122.4862060546875px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector300 {
+  top: 77.42021179199219px;
+  left: 1314.8299560546875px;
+  width: 37px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector301 {
+  top: 216.4451904296875px;
+  left: 1357.5892333984375px;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector302 {
+  top: 199.30572509765625px;
+  left: 1406.9544677734375px;
+  width: 21px;
+  height: 30px;
+  position: absolute;
+}
+.frame2-vector303 {
+  top: 228.91934204101562px;
+  left: 1416.0989990234375px;
+  width: 2px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector304 {
+  top: 97.30672454833984px;
+  left: 1096.4033203125px;
+  width: 1px;
+  height: 41px;
+  position: absolute;
+}
+.frame2-vector305 {
+  top: 67.12535095214844px;
+  left: 83.82418060302734px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector306 {
+  top: 51.480220794677734px;
+  left: 94.51109313964844px;
+  width: 23px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector307 {
+  top: 67.16976928710938px;
+  left: 107.06792449951172px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.frame2-vector308 {
+  top: 66.18006134033203px;
+  left: 390.1101989746094px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector309 {
+  top: 66.79255676269531px;
+  left: 390.9388427734375px;
+  width: 10px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector310 {
+  top: 94.17247009277344px;
+  left: 389.1375427246094px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector311 {
+  top: 94.20841979980469px;
+  left: 383.22918701171875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector312 {
+  top: 66.39620971679688px;
+  left: 371.8809509277344px;
+  width: 10px;
+  height: 28px;
+  position: absolute;
+}
+.frame2-vector313 {
+  top: 66.03592681884766px;
+  left: 383.22918701171875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector314 {
+  top: 61.846431732177734px;
+  left: 367.5489807128906px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector315 {
+  top: 59.48870086669922px;
+  left: 382.9123229980469px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector316 {
+  top: 61.92900085449219px;
+  left: 385.6789245605469px;
+  width: 19px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector317 {
+  top: 94.80947875976562px;
+  left: 385.1033935546875px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.frame2-vector318 {
+  top: 66.79255676269531px;
+  left: 379.06134033203125px;
+  width: 14px;
+  height: 27px;
+  position: absolute;
+}
+.frame2-vector319 {
+  top: 239.75413513183594px;
+  left: 40.50833511352539px;
+  width: 77px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector320 {
+  top: 239.75413513183594px;
+  left: 136.446044921875px;
+  width: 254px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector321 {
+  top: 239.75413513183594px;
+  left: 406.3902587890625px;
+  width: 15px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector322 {
+  top: 239.75413513183594px;
+  left: 433.15765380859375px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector323 {
+  top: 183.21487426757812px;
+  left: 0px;
+  width: 30px;
+  height: 44px;
+  position: absolute;
+}
+.frame2-vector324 {
+  top: 227.50526428222656px;
+  left: 14.285134315490723px;
+  width: 2px;
+  height: 14px;
+  position: absolute;
+}
+.frame2-vector325 {
+  top: 78.5370101928711px;
+  left: 161.1278533935547px;
+  width: 75px;
+  height: 150px;
+  position: absolute;
+}
+.frame2-vector326 {
+  top: 155.8852081298828px;
+  left: 83.59945678710938px;
+  width: 75px;
+  height: 73px;
+  position: absolute;
+}
+.frame2-vector327 {
+  top: 29.829666137695312px;
+  left: 238.54806518554688px;
+  width: 59px;
+  height: 199px;
+  position: absolute;
+}
+.frame2-vector328 {
+  top: 67.98136901855469px;
+  left: 443.03265380859375px;
+  width: 45px;
+  height: 160px;
+  position: absolute;
+}
+.frame2-vector329 {
+  top: 43.0152587890625px;
+  left: 467.49444580078125px;
+  width: 20px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector330 {
+  top: 62.10271072387695px;
+  left: 37.34197235107422px;
+  width: 24px;
+  height: 23px;
+  position: absolute;
+}
+.frame2-vector331 {
+  top: 88.08403778076172px;
+  left: 36.62140655517578px;
+  width: 45px;
+  height: 141px;
+  position: absolute;
+}
+.frame2-vector332 {
+  top: 111.5583267211914px;
+  left: 300.080810546875px;
+  width: 141px;
+  height: 117px;
+  position: absolute;
+}
+.frame2-vector333 {
+  top: 191.11880493164062px;
+  left: 92.49429321289062px;
+  width: 56px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector334 {
+  top: 191.11880493164062px;
+  left: 44.86758041381836px;
+  width: 29px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector335 {
+  top: 165.3203125px;
+  left: 100.35171508789062px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector336 {
+  top: 165.3203125px;
+  left: 118.90528106689453px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector337 {
+  top: 165.3203125px;
+  left: 137.49468994140625px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector338 {
+  top: 198.21595764160156px;
+  left: 47.5372200012207px;
+  width: 3px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector339 {
+  top: 198.42837524414062px;
+  left: 57.08424377441406px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector340 {
+  top: 198.42837524414062px;
+  left: 66.63127136230469px;
+  width: 2px;
+  height: 21px;
+  position: absolute;
+}
+.frame2-vector341 {
+  top: 129.18606567382812px;
+  left: 395.4780578613281px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector342 {
+  top: 129.18606567382812px;
+  left: 414.0316162109375px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector343 {
+  top: 129.18606567382812px;
+  left: 432.62103271484375px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector344 {
+  top: 108.75928497314453px;
+  left: 395.4780578613281px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector345 {
+  top: 108.75928497314453px;
+  left: 414.0316162109375px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector346 {
+  top: 108.75928497314453px;
+  left: 432.62103271484375px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector347 {
+  top: 110.02396392822266px;
+  left: 177.8440399169922px;
+  width: 3px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector348 {
+  top: 110.23625946044922px;
+  left: 196.43345642089844px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector349 {
+  top: 110.23625946044922px;
+  left: 214.9870147705078px;
+  width: 2px;
+  height: 9px;
+  position: absolute;
+}
+.frame2-vector350 {
+  top: 89.59707641601562px;
+  left: 177.8440399169922px;
+  width: 3px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector351 {
+  top: 89.80948638916016px;
+  left: 196.43345642089844px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector352 {
+  top: 89.80948638916016px;
+  left: 214.9870147705078px;
+  width: 2px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector353 {
+  top: 157.97479248046875px;
+  left: 375.6277160644531px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector354 {
+  top: 157.97479248046875px;
+  left: 406.3580322265625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector355 {
+  top: 184.3458709716797px;
+  left: 376.2761535644531px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector356 {
+  top: 184.3458709716797px;
+  left: 407.0064697265625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector357 {
+  top: 78.46499633789062px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector358 {
+  top: 78.46499633789062px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector359 {
+  top: 93.70410919189453px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector360 {
+  top: 93.70410919189453px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector361 {
+  top: 108.546875px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector362 {
+  top: 108.546875px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector363 {
+  top: 123.82193756103516px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector364 {
+  top: 123.82193756103516px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector365 {
+  top: 137.5118408203125px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector366 {
+  top: 137.5118408203125px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector367 {
+  top: 152.75094604492188px;
+  left: 451.6069030761719px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector368 {
+  top: 152.75094604492188px;
+  left: 466.9540710449219px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector369 {
+  top: 99.54033660888672px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector370 {
+  top: 99.54033660888672px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector371 {
+  top: 114.77933502197266px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector372 {
+  top: 114.77933502197266px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector373 {
+  top: 129.73028564453125px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector374 {
+  top: 129.73028564453125px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector375 {
+  top: 144.8612060546875px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector376 {
+  top: 144.8612060546875px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector377 {
+  top: 158.5512237548828px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector378 {
+  top: 158.5512237548828px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector379 {
+  top: 173.82627868652344px;
+  left: 44.042789459228516px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector380 {
+  top: 173.82627868652344px;
+  left: 59.317848205566406px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.frame2-vector381 {
+  top: 162.44200134277344px;
+  left: 306.88970947265625px;
+  width: 44px;
+  height: 3px;
+  position: absolute;
+}
+.frame2-vector382 {
+  top: 216.84153747558594px;
+  left: 307.10211181640625px;
+  width: 43px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector383 {
+  top: 169.86338806152344px;
+  left: 450.8104553222656px;
+  width: 28px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector384 {
+  top: 197.31497192382812px;
+  left: 243.8431396484375px;
+  width: 20px;
+  height: 37px;
+  position: absolute;
+}
+.frame2-vector385 {
+  top: 176.22677612304688px;
+  left: 449.534912109375px;
+  width: 32px;
+  height: 45px;
+  position: absolute;
+}
+.frame2-vector386 {
+  top: 167.48190307617188px;
+  left: 310.60040283203125px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector387 {
+  top: 167.48190307617188px;
+  left: 318.9224548339844px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector388 {
+  top: 167.48190307617188px;
+  left: 327.2805480957031px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector389 {
+  top: 167.48190307617188px;
+  left: 335.6025695800781px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector390 {
+  top: 167.48190307617188px;
+  left: 343.9606628417969px;
+  width: 2px;
+  height: 47px;
+  position: absolute;
+}
+.frame2-vector391 {
+  top: 128.25111389160156px;
+  left: 306.9486389160156px;
+  width: 40px;
+  height: 29px;
+  position: absolute;
+}
+.frame2-vector392 {
+  top: 197.4233856201172px;
+  left: 92.2818832397461px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector393 {
+  top: 210.71705627441406px;
+  left: 92.85820770263672px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector394 {
+  top: 170.54788208007812px;
+  left: 174.13323974609375px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector395 {
+  top: 170.54788208007812px;
+  left: 204.86367797851562px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector396 {
+  top: 196.9190673828125px;
+  left: 174.7096710205078px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector397 {
+  top: 196.9190673828125px;
+  left: 205.44000244140625px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.frame2-vector398 {
+  top: 126.99225616455078px;
+  left: 171.53945922851562px;
+  width: 56px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector399 {
+  top: 143.05990600585938px;
+  left: 171.53945922851562px;
+  width: 56px;
+  height: 16px;
+  position: absolute;
+}
+.frame2-vector400 {
+  top: 37.214988708496094px;
+  left: 245.57321166992188px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector401 {
+  top: 37.214988708496094px;
+  left: 262.0731506347656px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector402 {
+  top: 37.214988708496094px;
+  left: 278.609130859375px;
+  width: 12px;
+  height: 60px;
+  position: absolute;
+}
+.frame2-vector403 {
+  top: 103.82745361328125px;
+  left: 245.57321166992188px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector404 {
+  top: 103.82745361328125px;
+  left: 262.0731506347656px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector405 {
+  top: 103.82745361328125px;
+  left: 278.609130859375px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector406 {
+  top: 123.96607208251953px;
+  left: 245.57321166992188px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector407 {
+  top: 123.96607208251953px;
+  left: 262.0731506347656px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector408 {
+  top: 123.96607208251953px;
+  left: 278.609130859375px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector409 {
+  top: 143.31210327148438px;
+  left: 245.57321166992188px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector410 {
+  top: 143.31210327148438px;
+  left: 262.0731506347656px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector411 {
+  top: 143.31210327148438px;
+  left: 278.609130859375px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.frame2-vector412 {
+  top: 164.20724487304688px;
+  left: 245.5334014892578px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector413 {
+  top: 173.2137908935547px;
+  left: 245.5334014892578px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector414 {
+  top: 182.2203369140625px;
+  left: 245.5334014892578px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector415 {
+  top: 191.2268829345703px;
+  left: 245.5334014892578px;
+  width: 44px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector416 {
+  top: 199.72911071777344px;
+  left: 267.3291931152344px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector417 {
+  top: 208.73565673828125px;
+  left: 267.3291931152344px;
+  width: 23px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector418 {
+  top: 69.20624542236328px;
+  left: 131.8385467529297px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.frame2-vector419 {
+  top: 216.4451904296875px;
+  left: 367.337890625px;
+  width: 50px;
+  height: 2px;
+  position: absolute;
+}
+.frame2-vector420 {
+  top: 199.30714416503906px;
+  left: 416.46533203125px;
+  width: 21px;
+  height: 30px;
+  position: absolute;
+}
+.frame2-vector421 {
+  top: 228.874267578125px;
+  left: 425.8121337890625px;
+  width: 2px;
+  height: 10px;
+  position: absolute;
+}
+.frame2-vector422 {
+  top: 97.30672454833984px;
+  left: 106.15187072753906px;
+  width: 1px;
+  height: 41px;
+  position: absolute;
+}
+.frame2-rectangle6 {
+  top: 676px;
+  left: 897px;
+  width: 69px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+}
+.frame2-text14 {
+  top: 790px;
+  color: rgba(255, 255, 255, 1);
+  right: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-rectangle7 {
+  top: 671px;
+  left: 376px;
+  width: 69px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+}
+.frame2-text16 {
+  top: 678px;
+  left: 386px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-text18 {
+  top: 678px;
+  left: 576px;
+  color: rgba(217, 217, 217, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame2-talksvgrepocom1 {
+  top: 303px;
+  left: 582px;
+  width: 93px;
+  height: 93px;
+  position: absolute;
+}
